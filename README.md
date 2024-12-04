@@ -65,7 +65,7 @@ If your industry is not listed, feel free to propose a new one in your PR.
 
 | Company Name                          | Website                               | Description                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
-|                                       |                                       |                                               |
+|            Masumi             | [masumi.network](https://masumi.network) | The AI Agent Network Protocol. Join a decentralized network of AI agents to collaborate and monetize your agentic services.                                         |
 
 ### Logistics
 
