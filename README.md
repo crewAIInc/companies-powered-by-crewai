@@ -36,7 +36,8 @@ If your industry is not listed, feel free to propose a new one in your PR.
 | Company Name                          | Website                               | Description                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         Potpie AI 🥧                  |     [potpie.ai](https://potpie.ai)   | Prompt-To-Agent: Build custom engineering agents powered by CrewAI that are expert on your codebase, or use any of the pre-built agents for Q&A, Testing, Coding, System Design and Code Review.                              |
-|          Composio ⚡          |   [composio.dev](https://composio.dev/)   | Developer first integration platform for AI Agents & LLMs - helping integrate CrewAI with the agentic internet.         |
+|         DUKE AI                       |     [duke-ai.io](https://duke-ai.io)  |DUKE Big Band: A CrewAI-powered orchestra of AI agents that transforms any business data into instant insights, giving SMBs the power of a full data department at 1/10th the cost.                                           |
+|         Composio ⚡          |   [composio.dev](https://composio.dev/)   | Developer first integration platform for AI Agents & LLMs - helping integrate CrewAI with the agentic internet.         |
 
 
 ### E-commerce
@@ -85,3 +86,4 @@ If your industry is not listed, feel free to propose a new one in your PR.
 
 ## 🤝 Acknowledgments
 Thank you for innovating with CrewAI! 🚣
+
